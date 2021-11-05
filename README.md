@@ -9,6 +9,8 @@ Programmed a web scraper to collect and parse out job posting information from I
 
   -Cleared the data, organized and saved it in a CSV file. 
 
+Development Environment:
+Python in Jupyter Notebook in conjunction with Requests, BeautifulSoup and Pandas
 
 
 
